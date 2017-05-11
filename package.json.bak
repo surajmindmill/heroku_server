@@ -22,7 +22,10 @@
     "repository": {
     "type": "git",
     "url": "https://github.com/surajmindmill/heroku_server.git"
-}
+},
+ "script": {
+    "start": "echo hi"
+  }
 }
 
 
